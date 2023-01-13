@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNuBFPb7+RenM01UPV7EeMqd/94jrd/EUj068tfdERB7OMVUcfIzzNygo8jLTcELr99r8VEfS3gzMYU0zlGoaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brites-Sánchez\\Desktop\\C# and .NET\\C#.NET\\Creación de aplicaciones en .NET con C#\\Exercices\\Exercices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brites-Sánchez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Brites-Sánchez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Brites-Sánchez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Brites-Sánchez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

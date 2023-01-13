@@ -1,0 +1,15 @@
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\bin\Debug\net6.0\Exercices.exe
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\bin\Debug\net6.0\Exercices.deps.json
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\bin\Debug\net6.0\Exercices.runtimeconfig.json
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\bin\Debug\net6.0\Exercices.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\bin\Debug\net6.0\Exercices.pdb
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.csproj.AssemblyReference.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.AssemblyInfoInputs.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.AssemblyInfo.cs
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.csproj.CoreCompileInputs.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\refint\Exercices.dll
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.pdb
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\Exercices.genruntimeconfig.cache
+C:\Users\Brites-Sánchez\Desktop\C# and .NET\C#.NET\Creación de aplicaciones en .NET con C#\Exercices\obj\Debug\net6.0\ref\Exercices.dll
